@@ -6,6 +6,6 @@ published: true
 
 _This_ is my first post.
 
-```php
+{% highlight php %}
 <?php echo 'Hello World'; ?>
-```
+{% endhighlight %}
