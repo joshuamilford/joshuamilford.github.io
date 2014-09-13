@@ -26,9 +26,7 @@ h1, h2, h3, h4, h5, h6, ul, ol, dl, p, pre{
 }
 
 h1{
-	@include adjust-font-size-to(36px, 1.5, 18px);
-	// @include adjust-leading-to(1.75, 36px);
-	@include trailer(.5);
+	@include adjust-font-size-to(36px);
 }
 h2{
 	@include adjust-font-size-to(24px);
