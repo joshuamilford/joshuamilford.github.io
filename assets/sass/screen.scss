@@ -16,6 +16,7 @@ img{
 $base-font-size:18px;
 $base-line-height:27px;
 
+
 @include establish-baseline();
 
 h1, h2, h3, h4, h5, h6, ul, ol, dl, p, pre{
@@ -25,9 +26,9 @@ h1, h2, h3, h4, h5, h6, ul, ol, dl, p, pre{
 }
 
 h1{
-	@include adjust-font-size-to(36px);
-	// @include adjust-leading-to(.75);
-	// @include trailer();
+	@include adjust-font-size-to(36px, 1.5, 18px);
+	// @include adjust-leading-to(1.75, 36px);
+	@include trailer(.5);
 }
 h2{
 	@include adjust-font-size-to(24px);
