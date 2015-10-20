@@ -67,7 +67,6 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
-=======
 pygments: true
 paginate: 5
 exclude: [node_modules, gruntfile.js, package.json, sass]
