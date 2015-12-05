@@ -1,27 +1,24 @@
 ---
-layout: default
-title: Joshua Milford
+title: Joshua Milford | Web Developer &amp; Consultant
 ---
 
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Joshua Milford | Web Developer and Consultant</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+    
+    <h1>Joshua Milford</h1>
+    <p>I’m a full-stack web developer who’s crazy about solving problems and helping businesses through code. I’ve been writing HTML, CSS, and PHP on a daily-basis for the last eight years, and I’m constantly digging into new frameworks, platforms, and techniques. I’m currently available for full-on website strategy, custom WordPress development, and website repairs and maintenance.</p>
+    <ul>
+      <li><a href="mailto:joshua@joshuamilford.com">Email</a></li>
+      <li><a href="http://twitter.com/joshuamilford">Twitter</a></li>
+    </ul>
 
-    {% for post in paginator.posts %}
-    <article>
-      {% if post.link %}
-      <h1><a href="{{ post.link }}">{{ post.title }}</a></h1>
-      {% else %}
-    	<h1>{{ post.title }}</h1>
-      {% endif %}
-    	<p class="post-date"><a href="{{ post.url }}">{{ post.date | date_to_string }}</a></p>
-    	{{ post.content }}
-     </article>
-    {% endfor %}
-
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">Newer</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="prev">Older</a>
-  {% endif %}
-</div>
+</body>
+</html>
