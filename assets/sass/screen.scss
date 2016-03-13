@@ -1,3 +1,5 @@
+@import 'pygments';
+
 body {
 	background: #21242E;
 	color: #A2A6B0;
@@ -26,6 +28,11 @@ p {
 	margin: 0 0 1.4em;
 }
 
+pre {
+	font-size: .777777778em; // 14
+	line-height: 1.3; // 25.2
+}
+
 a {
 	color: #9D4F55;
 	text-decoration: none;
@@ -35,6 +42,14 @@ a {
 a:hover {
 	text-decoration: underline;
 	color: #84454A;
+}
+
+.home-link {
+	color: #A2A6B0;
+}
+
+.home-link:hover {
+	text-decoration: none;
 }
 
 .container {
