@@ -339,7 +339,7 @@ a:hover {
   margin: 0 auto; }
 
 ul {
-  margin: 0;
+  margin: 0 0 1.4em;
   padding: 0; }
 
 .home-contact {
