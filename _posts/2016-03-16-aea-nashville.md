@@ -15,4 +15,4 @@ There have been a few common themes threaded throughout many of the presentation
 	- The stuff we can do with CSS, including animation and layout, is about to get even more powerful, so now's the time to learn it.
 	- lol vape pens.
 
-I've been super-impressed with the quality of each presentation, as well as how chill all the speakers have been when not on stage. I mean, [Brad Frost]() showed me a gif on his phone. It's kinda been like Twitter in real life.
+I've been super-impressed with the quality of each presentation, as well as how chill all the speakers have been when not on stage. I mean, [Brad Frost](https://twitter.com/brad_frost) showed me a gif on his phone. It's kinda been like Twitter in real life.
