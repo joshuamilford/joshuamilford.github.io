@@ -3,7 +3,7 @@ title: An Event Apart Nashville Highlights
 layout: post
 ---
 
-I've been at An Event Apart this week, and it's been a phenomenal experience. There's been an insane amount of super-useful information dissiminated, and it's going to take a while for things to get processed and sink in.
+I've been at An Event Apart this week, and it's been a phenomenal experience. There's been an insane amount of super-useful information disseminated, and it's going to take a while for things to get processed and sink in.
 
 There have been a few common themes threaded throughout many of the presentations:
 
